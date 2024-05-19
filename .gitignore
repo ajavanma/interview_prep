@@ -1,0 +1,31 @@
+# python and jupyter notebook files
+__pycache__/
+.ipynb_checkpoints/
+lightning_logs/
+.mypy_cache
+
+# Sensitive data
+.env
+
+# macOS system files
+.DS_Store
+
+# Thumbnails
+._*
+
+# Files that might appear on external disks
+.Trashes
+
+# VSCode files
+.vscode/
+*.code-workspace
+venv/
+.idea/
+
+# Build output
+*.app
+*.ipa
+*.dmg
+
+# Project specific
+
